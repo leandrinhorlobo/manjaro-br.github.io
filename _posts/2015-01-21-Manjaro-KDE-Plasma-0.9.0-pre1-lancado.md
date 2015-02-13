@@ -3,7 +3,7 @@ layout: post
 title: Manjaro KDE Plasma 5 0.9.0-pre1 lancado
 ---
 
-<img src="{{ site.baseurl }}/images/manjaro-090p1-kde.jpg">
+![Manjaro KDE Plasma 5 0.9.0-pre1](http://s29.postimg.org/rsopuwwon/manjaro_090p1_kde.png)
 
 Manjaro would like to present our first public release version of Manjaro KDE Plasma 5 Desktop (Bellatrix 0.9.0) to it's users to test with our new Qt5/python3 based installer named Calamares. 
 
