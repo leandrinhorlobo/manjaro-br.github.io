@@ -24,14 +24,14 @@ Para criar as postagens não será necessário conhecimento sobre programação 
 
 ### Vamos ao que interessa
 
-**1º. Criar uma conta no GitHub**  
+**1º. Criar uma conta no GitHub**  <br/>
     Para criar sua conta no GitHub acesse [github.com/join](https://github.com/join)
 
-**2º Acessar a página do projeto**
-    * Certifique-se de estar logado  
-    * Acesse [github.com/manjaro-br](https://github.com/manjaro-br)  
-    * Clique em "manjaro-br.github.io"  
-    * Clique na pasta "_post"  
+**2º Acessar a página do projeto** <br/> 
+    - Certifique-se de estar logado  
+    - Acesse [github.com/manjaro-br](https://github.com/manjaro-br)  
+    - Clique em "manjaro-br.github.io"  
+    - Clique na pasta "_post"  
 
 **3. Adicionar uma nova postagem**
 <blockquote>
