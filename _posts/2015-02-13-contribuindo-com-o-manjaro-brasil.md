@@ -49,7 +49,7 @@ Pronto, sua postagem está publicada.
 ### Dicas
 
 OBS: Lembre-se de colocar o cabeçalho no início do texto:  
-    ` --- `  <br/>
+    `--- `  <br/>
     layout: post  <br/>
     title: Contribuindo com o Manjaro Brasil  <br/>
     `--- `  <br/>
