@@ -49,12 +49,10 @@ Pronto, sua postagem está publicada.
 ### Dicas
 
 OBS: Lembre-se de colocar o cabeçalho no início do texto:  
-```
----  
-layout: post  
-title: Contribuindo com o Manjaro Brasil  
----  
-```
+` ---`  
+` layout: post`  
+` title: Contribuindo com o Manjaro Brasil`  
+` ---`  
 
 * Caso não se sinta à vontade em escrever diretamente em markdown utilize alguma ferramenta para facilitar a digitação dos textos. Eu indico o editor online [stackedit](https://stackedit.io/). 
 * O stackedit tem uma divisão no meio onde do lado esquerdo fica o texto em markdown, com botões na barra superior pra facilitar a digitação, e do lado direito você ver em tempo real o resultado do texto digitado
