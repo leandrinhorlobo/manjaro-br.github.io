@@ -25,22 +25,26 @@ Para criar as postagens não será necessário conhecimento sobre programação 
 ### Vamos ao que interessa
 
 **1º. Criar uma conta no GitHub**  <br/>
-    Para criar sua conta no GitHub acesse [github.com/join](https://github.com/join)
+    <ul><li>Para criar sua conta no GitHub acesse [github.com/join](https://github.com/join)</li></ul>
 
 **2º Acessar a página do projeto** <br/> 
-    - Certifique-se de estar logado  
-    - Acesse [github.com/manjaro-br](https://github.com/manjaro-br)  
-    - Clique em "manjaro-br.github.io"  
-    - Clique na pasta "_post"  
+    <ul>
+    <li>Certifique-se de estar logado<li>  
+    <li>Acesse [github.com/manjaro-br](https://github.com/manjaro-br)</li>
+    <li>Clique em "manjaro-br.github.io"</li>  
+    <li>Clique na pasta "_post"</li>
+    </ul>
 
 **3. Adicionar uma nova postagem**  <br/>
-    - Clique em "+" para adicionar um novo arquivo  <br/>
+    <ul>
+    <li> Clique em "+" para adicionar um novo arquivo<li>  <br/><br/>
     ![Adicionando arquivo](http://s29.postimg.org/qx9scpjp3/adde_file.png)
-<br/>
-- Nomeie o arquivo segundo o formato abaixo  <br/>
+    <br/><br/>
+    - Nomeie o arquivo segundo o formato abaixo  <br/><br/>
     ![Nomeando arquivo](http://s24.postimg.org/iv6qo6alx/add_file2.png)
-  <br/>
-    Digite o seu texto na área de texto e clique em "Propose new file" ou "Commit new file"  
+    <br/><br/>
+    <li>Digite o seu texto na área de texto e clique em "Propose new file" ou "Commit new file"</li>  
+    </ul>
 
 Pronto, sua postagem está publicada.
 
