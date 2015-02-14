@@ -33,7 +33,7 @@ Para criar as postagens não será necessário conhecimento sobre programação 
     - Clique em "manjaro-br.github.io"  
     - Clique na pasta "_post"  
 
-**3. Adicionar uma nova postagem**
+**3. Adicionar uma nova postagem**  <br/>
     - Clique em "+" para adicionar um novo arquivo  <br/>
     ![Adicionando arquivo](http://s29.postimg.org/qx9scpjp3/adde_file.png)
 <br/>
@@ -46,7 +46,7 @@ Pronto, sua postagem está publicada.
 
 ### Dicas
 
-*  OBS: Lembre-se de colocar o cabeçalho no início do texto:
+OBS: Lembre-se de colocar o cabeçalho no início do texto:
 ```
 ---
 layout: post
