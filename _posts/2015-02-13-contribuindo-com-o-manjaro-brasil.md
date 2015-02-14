@@ -28,7 +28,7 @@ Para criar as postagens não será necessário conhecimento sobre programação 
 
 **1º. Criar uma conta no GitHub**
 <blockquote>
-<ul><li>Para criar sua conta no GitHub acesse [github.com/join](https://github.com/join)</li></ul>
+Para criar sua conta no GitHub acesse [github.com/join](https://github.com/join)
 </blockquote>
 
 **2º Acessar a página do projeto**
@@ -57,12 +57,12 @@ Pronto, sua postagem está publicada.
 ### Dicas
 
 *  OBS: Lembre-se de colocar o cabeçalho no início do texto:
-<blockquote>
-`---` <br/>
-`layout: post` <br/>
-`title: Contribuindo com o Manjaro Brasil` <br/>
-`---` <br/>
-</blockquote>
+```
+---
+layout: post
+title: Contribuindo com o Manjaro Brasil
+--- <br/>
+```
 
 * Caso não se sinta à vontade em escrever diretamente em markdown utilize alguma ferramenta para facilitar a digitação dos textos. Eu indico o editor online [stackedit](https://stackedit.io/). 
 * O stackedit tem uma divisão no meio onde do lado esquerdo fica o texto em markdown, com botões na barra superior pra facilitar a digitação, e do lado direito você ver em tempo real o resultado do texto digitado
