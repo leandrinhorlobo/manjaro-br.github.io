@@ -48,12 +48,12 @@ Pronto, sua postagem está publicada.
 
 ### Dicas
 
-OBS: Lembre-se de colocar o cabeçalho no início do texto:
+OBS: Lembre-se de colocar o cabeçalho no início do texto:  
 ```
----
-layout: post
-title: Contribuindo com o Manjaro Brasil
---- 
+---  
+layout: post  
+title: Contribuindo com o Manjaro Brasil  
+---  
 ```
 
 * Caso não se sinta à vontade em escrever diretamente em markdown utilize alguma ferramenta para facilitar a digitação dos textos. Eu indico o editor online [stackedit](https://stackedit.io/). 
@@ -64,3 +64,5 @@ title: Contribuindo com o Manjaro Brasil
 * Caso precise inserir uma imagem na postagem eu recomendo o uso de ferramentas de hospedagem de imagem como o [postimg](http://postimg.org/). O seu uso é bem simples, basta fazer o upload da imagem e copiar o "link direto" da imagem. Dentro do editor basta clicar no botão para adicionar imagem e colar a URL.
 
 Simples assim!!
+
+Pra finalizar, dê uma olhada nesse link sobre [Markdown](http://pt.stackoverflow.com/editing-help).
