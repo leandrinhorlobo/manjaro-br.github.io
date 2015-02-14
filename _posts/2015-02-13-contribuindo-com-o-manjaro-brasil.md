@@ -13,31 +13,25 @@ Para criar as postagens não será necessário conhecimento sobre programação 
 
 ### Exemplos de uso do Markdown:
 
-
-1. Texto em negrito <br/>
-	`**TEXTO**` 
-2. Texto em itálico <br/>
-	`*TEXTO*`
-3. Lista <br/>
-	`* Item 1`
-	<br/>
-	`* Item 2`
+1. Texto em negrito  
+`**TEXTO**` 
+2. Texto em itálico  
+`*TEXTO*`
+3. Lista  
+`* Item 1`  
+`* Item 2`
 
 
 ### Vamos ao que interessa
 
-**1º. Criar uma conta no GitHub**
+**1º. Criar uma conta no GitHub**  
     Para criar sua conta no GitHub acesse [github.com/join](https://github.com/join)
 
 **2º Acessar a página do projeto**
-<blockquote>
-<ul>
-<li>Certifique-se de estar logado</li>
-<li>Acesse [github.com/manjaro-br](https://github.com/manjaro-br)</li>
-<li>Clique em "manjaro-br.github.io"</li>
-<li>Clique na pasta "_post"</li>
-</ul>
-</blockquote>
+    * Certifique-se de estar logado  
+    * Acesse [github.com/manjaro-br](https://github.com/manjaro-br)  
+    * Clique em "manjaro-br.github.io"  
+    * Clique na pasta "_post"  
 
 **3. Adicionar uma nova postagem**
 <blockquote>
