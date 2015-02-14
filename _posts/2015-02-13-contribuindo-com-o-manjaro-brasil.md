@@ -27,7 +27,7 @@ Para criar as postagens não será necessário conhecimento sobre programação 
 ### Vamos ao que interessa
 
 **1º. Criar uma conta no GitHub**
-    Para criar sua conta no GitHub acesse ([github.com/join](https://github.com/join))
+    Para criar sua conta no GitHub acesse [github.com/join](https://github.com/join)
 
 **2º Acessar a página do projeto**
 <blockquote>
