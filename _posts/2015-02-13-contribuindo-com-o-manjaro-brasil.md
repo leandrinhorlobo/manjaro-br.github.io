@@ -34,8 +34,8 @@ Para criar as postagens não será necessário conhecimento sobre programação 
 * Clique na pasta "_post"  
 
 **3. Adicionar uma nova postagem**  
-* Clique em "+" para adicionar um novo arquivo<li>  
-<br>
+* Clique em "+" para adicionar um novo arquivo  
+<br/>
 ![Adicionando arquivo](http://s29.postimg.org/qx9scpjp3/adde_file.png)
 <br/>
 * Nomeie o arquivo segundo o formato abaixo  
