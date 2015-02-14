@@ -34,15 +34,13 @@ Para criar as postagens não será necessário conhecimento sobre programação 
     - Clique na pasta "_post"  
 
 **3. Adicionar uma nova postagem**
-<blockquote>
-Clique em "+" para adicionar um novo arquivo
-![Adicionando arquivo](http://s29.postimg.org/qx9scpjp3/adde_file.png)
+    - Clique em "+" para adicionar um novo arquivo  <br/>
+    ![Adicionando arquivo](http://s29.postimg.org/qx9scpjp3/adde_file.png)
 <br/>
-* Nomeie o arquivo segundo o formato abaixo
-![Nomeando arquivo](http://s24.postimg.org/iv6qo6alx/add_file2.png)
-<br>
-* Digite o seu texto na área de texto e clique em "Propose new file" ou "Commit new file".
-</blockquote>
+- Nomeie o arquivo segundo o formato abaixo  <br/>
+    ![Nomeando arquivo](http://s24.postimg.org/iv6qo6alx/add_file2.png)
+  <br/>
+    Digite o seu texto na área de texto e clique em "Propose new file" ou "Commit new file"  
 
 Pronto, sua postagem está publicada.
 
@@ -53,7 +51,7 @@ Pronto, sua postagem está publicada.
 ---
 layout: post
 title: Contribuindo com o Manjaro Brasil
---- <br/>
+--- 
 ```
 
 * Caso não se sinta à vontade em escrever diretamente em markdown utilize alguma ferramenta para facilitar a digitação dos textos. Eu indico o editor online [stackedit](https://stackedit.io/). 
