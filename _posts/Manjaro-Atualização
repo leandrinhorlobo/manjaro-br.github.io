@@ -1,0 +1,51 @@
+
+
+﻿**
+
+**Manjaro Atualização 14/02/2015 (estável)**
+----------------------------------
+
+** 
+
+Estamos felizes em anunciar nossa primeira atualização para **Manjaro 0.8.12**. 
+
+Com esta atualização, acrescentamos **KDE 4.14.5** e o **KDE Apps 14.12.2**. 
+**Mesa** foi atualizado para **10.4.4** e agora suporta DirectX 9. 
+Kernel-wise temos **3.10.68, 3.12.37, 3.13.11.15, 3.14.32, 3.16.7.5, 3.18.6 e 3.19.0** apresentando todos BFQ-Scheduler v7r7. 
+Nota: 3.17-series é EOL e será removido de nossos repositórios em breve. 
+
+Esta atualização também apresenta **NetworkManager 1.0.0**, que corrige alguns problemas que tivemos com nossas últimas atualizações sobre openrc. 
+Lamentamos por bloquear suas atualizações. 
+Nota: A versão lib32 junto com ﻿steam-native ainda é a versão congelada até que os testes mostrem que ele não irá causar instabilidade. 
+
+Com esta atualização, nós adicionamos o necessário, **flashplugin 11.2.202.442** update. **Plasma 5** foi atualizado para a versão **5.2.** 
+**Firefox** está agora em **35.0.1**. 
+Nós também lançamos uma versão de correções de **Pamac 2.1-series.** 
+**LXQT** foi atualizado para **0.9** e usa QT5 agora. 
+
+Isso inclui também ﻿regular Archlinux upstream fixes (09 de fevereiro 10:51:41 CET 2015). Por favor, nos dê um feedback e relate quaisquer conclusões com esta atualização. 
+Nós também incluímos várias correções de segurança para vários pacotes, incluindo Chromium. 
+Atenciosamente, Equipe de Desenvolvimento Manjaro 
+
+**Kernels suportados** 
+    Linux310 3.10.68 
+    Linux312 3.12.37 
+    Linux313 3.13.11.15 
+    Linux314 3.14.32 
+    Linux316 3.16.7.5 
+    Linux317 3.17.8 (EOL) 
+    Linux318 3.18.6 
+    Linux319 3.19.0 
+
+**Mudanças de Pacotes** 
+    community i686 : 519 novos e 488 pacote removido (s) 
+    community x86_64 : 517 novos e 486 pacote removido (s) 
+    core i686 : 49 novos e 47 pacote removido (s) 
+    core x86_64 : 49 novos e 47 pacote removido (s) 
+    extra i686 : 1002 novo e 1023 pacote removido (s) 
+    extra x86_64 : 1002 novo e 1023 pacote removido (s) 
+    multilib x86_64 : 32 novos e 28 pacote removido (s) 
+﻿
+**Links**
+https://forum.manjaro.org/index.php?topic=20478.0
+https://lists.manjaro.org/pipermail/manjaro-packages/Week-of-Mon-20150209/002596.html
